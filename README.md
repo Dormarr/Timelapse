@@ -1,3 +1,6 @@
+Timelapse
+
+````
 ########\ ##\                         ##\                                         
 \__##  __|\__|                        ## |                                        
    ## |   ##\ ######\####\   ######\  ## | ######\   ######\   #######\  ######\  
@@ -9,8 +12,7 @@
                                                     ## |                          
                                                     ## | V2                       
                                                     \__| By Ryan Appleyard        
-
-
+````
 A simple C# console app designed to turn a series of serialised images (by timestamp) into a timelapse video.
 
 When prompted, print directories in full, and append your filename and '.mp4' to recieve a proper output file.
